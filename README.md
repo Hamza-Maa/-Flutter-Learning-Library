@@ -22,13 +22,13 @@ This library covers essential Flutter topics and provides real-world examples fo
 **📱 Weather App**
 A simple weather app that displays the current weather conditions, temperature, and forecast using a beautiful animation.
 <p align="center">
-  <img src="Screenshots/weather_app.png" />
+  <img src="Screenshots/weather_app.png" width="300" />
 </p>
 
 **✅ ToDo App**
 A to-do list app that allows users to create, edit, and delete tasks. It demonstrates basic state management and user interaction.
 <p align="center">
-  <img src="Screenshots/to_do_app.png" />
+  <img src="Screenshots/to_do_app.png"  width="300" />
 </p>
 
 ## 🛠️ Features in Progress
